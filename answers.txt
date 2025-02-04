@@ -30,3 +30,11 @@ Daily Stand-Up: A quick, daily meeting where team members share what they worked
 Sprint Planning: The team discusses the goals for the upcoming sprint and selects which backlog items will be worked on.
 
 Sprint Retrospective: At the end of each sprint, the team reflects on what went well, what didn’t, and how they can improve in the next sprint.
+(d)Epic, Story, Bug, and Task Differences
+Epic: A large body of work that can be broken down into smaller tasks or stories. 
+
+Story: A user-facing requirement that is part of an Epic. 
+
+Bug: A defect or issue in the system that needs to be fixed.
+
+Task: A specific work item that needs to be completed, typically related to technical or administrative work. 
