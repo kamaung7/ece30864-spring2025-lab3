@@ -11,4 +11,15 @@ Cons of Agile Development:
 
     Overemphasis on Communication: Agile requires frequent meetings, which can sometimes hinder productivity if not managed efficiently. 
 
-    
+(b)Responsibilities of the Scrum Master vs. the Product Owner
+Scrum Master Responsibilities:
+
+    Facilitator of Scrum Events: The Scrum Master ensures that daily stand-ups, sprint reviews, and retrospectives happen on time and are productive.
+
+    Removing Obstacles: They work to remove any roadblocks that might prevent the development team from completing their work efficiently.
+
+Product Owner Responsibilities:
+
+    Defining the Product Vision: The Product Owner defines and communicates the products vision and sets clear goals.
+
+    Managing the Product Backlog: They prioritize and refine the backlog to ensure the most important work gets done first.
