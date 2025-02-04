@@ -23,3 +23,10 @@ Product Owner Responsibilities:
     Defining the Product Vision: The Product Owner defines and communicates the products vision and sets clear goals.
 
     Managing the Product Backlog: They prioritize and refine the backlog to ensure the most important work gets done first.
+
+(c)Types of Meetings in Agile
+Daily Stand-Up: A quick, daily meeting where team members share what they worked on, what they will work on next, and any blockers they face.
+
+Sprint Planning: The team discusses the goals for the upcoming sprint and selects which backlog items will be worked on.
+
+Sprint Retrospective: At the end of each sprint, the team reflects on what went well, what didn’t, and how they can improve in the next sprint.
